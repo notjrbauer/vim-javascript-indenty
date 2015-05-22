@@ -13,15 +13,15 @@ I've found that the plugin was modifiying my colorschemes, making them less colo
 ## Shortcuts
 
 
-```imap <C-c> <CR><Esc>O```: <CTRL - C> expands braces such that they're split above each other, with insert mode beginning in between.
+```imap <C-c> <CR><Esc>O``` : <CTRL - C> expands braces such that they're split above each other, with insert mode beginning in between.
 
-```
+```javascript
 function () {}
 ```
 
 ***becomes***
 
-```
+```javascript
 function () {
   <insert here>
 }
